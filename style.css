@@ -137,7 +137,6 @@ section {
         width: 720px;
         display: flex;
         align-items: end;
-        grid-template-columns: repeat(4, 1fr);
     }
 
     .fylo {
